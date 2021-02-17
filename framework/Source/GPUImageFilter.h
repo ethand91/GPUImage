@@ -1,4 +1,4 @@
-#import "GPUImageOutput.h"
+#import <GPUImageOutput.h>
 
 #define STRINGIZE(x) #x
 #define STRINGIZE2(x) STRINGIZE(x)
